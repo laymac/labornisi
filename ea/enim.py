@@ -1,0 +1,1 @@
+VBAT_BOOT = 15
